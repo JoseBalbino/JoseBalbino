@@ -13,17 +13,20 @@ Estados Unidos es un país lleno de contrastes y diversidad. En mi blog, encontr
 - **Recomendaciones de lugares menos conocidos** que no suelen aparecer en las guías tradicionales.
 - **Artículos sobre la cultura y la historia** de Estados Unidos para que tu viaje sea aún más enriquecedor.
 
-## 🔗 Visita el Blog
+## 🔗 Visita el Blog en tu Idioma
 
-Si estás interesado en aprender más y comenzar a planificar tu próximo viaje, ¡no dudes en visitar nuestro blog!
+¡Tenemos versiones de nuestro blog en diferentes idiomas para que puedas disfrutar de nuestros contenidos en tu lengua materna!
 
-👉 [Visita nuestro Blog de Viajes a Estados Unidos](https://quevisitarenestadosunidos.com/)
+- [Español](https://quevisitarenestadosunidos.com/)
+- [Francés](https://quevisiteretatsunis.com/)
+- [Italiano](https://visitarestatiuniti.com/)
+- [Inglés](https://visitguideusa.com/)
+- [Portugués](https://visitarestadosunidos.com/)
+- [Alemán](https://besuchenusa.com/)
 
 ## 🛠️ Cómo contribuir
 
 ¿Tienes ideas, sugerencias, o quieres compartir tu experiencia viajando por Estados Unidos? ¡Estamos abiertos a colaboraciones! No dudes en abrir un issue o hacer un pull request.
-
-
 
 ---
 
